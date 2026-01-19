@@ -160,4 +160,4 @@ For support, please open an issue in the GitHub repository.
 
 ---
 
-Made with love by Harisu Shehu
+Harisu Shehu
