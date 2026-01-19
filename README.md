@@ -2,7 +2,7 @@
 
 A modern full-stack application built with React, TypeScript, tRPC, and Drizzle ORM.
 
-## 🚀 Features
+## Features
 
 - **Full-stack TypeScript**: End-to-end type safety with tRPC
 - **Modern UI**: Built with React, Tailwind CSS, and shadcn/ui components
@@ -12,7 +12,7 @@ A modern full-stack application built with React, TypeScript, tRPC, and Drizzle 
 - **AI Integration**: AI-powered features and chatbot
 - **Testing**: Comprehensive test suite with Vitest
 
-## 📋 Prerequisites
+## Prerequisites
 
 Before you begin, ensure you have the following installed:
 
@@ -20,7 +20,7 @@ Before you begin, ensure you have the following installed:
 - **pnpm** (v8 or higher)
 - **MySQL** (v8 or higher)
 
-## 🛠️ Installation
+## Installation
 
 1. **Clone the repository**
 
@@ -62,7 +62,7 @@ Before you begin, ensure you have the following installed:
    pnpm db:push
    ```
 
-## 🚀 Running the Application
+## Running the Application
 
 ### Development Mode
 
@@ -90,7 +90,7 @@ Execute the test suite:
 pnpm test
 ```
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 hariflow-clone/
@@ -111,7 +111,7 @@ hariflow-clone/
 └── public/              # Static assets
 ```
 
-## 🔧 Available Scripts
+## Available Scripts
 
 - `pnpm dev` - Start development server
 - `pnpm build` - Build for production
@@ -119,7 +119,7 @@ hariflow-clone/
 - `pnpm db:push` - Apply database migrations
 - `pnpm lint` - Lint code (if configured)
 
-## 🧪 Testing
+## Testing
 
 The project includes comprehensive tests using Vitest. Run tests with:
 
@@ -127,7 +127,7 @@ The project includes comprehensive tests using Vitest. Run tests with:
 pnpm test
 ```
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome! Please follow these steps:
 
@@ -137,27 +137,27 @@ Contributions are welcome! Please follow these steps:
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 📝 License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 👤 Author
+## Author
 
 **Harisu Shehu**
 
 - GitHub: [@harisushehu](https://github.com/harisushehu)
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - Built with [Vite](https://vitejs.dev/)
 - UI components from [shadcn/ui](https://ui.shadcn.com/)
 - Database ORM: [Drizzle](https://orm.drizzle.team/)
 - API layer: [tRPC](https://trpc.io/)
 
-## 📞 Support
+## Support
 
 For support, please open an issue in the GitHub repository.
 
 ---
 
-Made with ❤️ by Harisu Shehu
+Made with love by Harisu Shehu
